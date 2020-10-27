@@ -28,14 +28,14 @@ Clause indispensable.
 
 Le présent contrat est un contrat de prestations de conseil ayant pour objet... 
 
-Définir aussi précisément que possible la prestation attendue (mission d'étude, expertise, audit, diagnostic, assistance, accompagnement...). Il peut être utile de renvoyer en annexe cette définition, si elle est un peu ample. Utiliser alors une formule du type: 
-Le présent contrat est un contrat de prestation de conseil ayant pour objet la mission définie au cahier des charges annexé au présent contrat et en faisant partie intégrante. 
+*Définir aussi précisément que possible la prestation attendue (mission d'étude, expertise, audit, diagnostic, assistance, accompagnement...). Il peut être utile de renvoyer en annexe cette définition, si elle est un peu ample. Utiliser alors une formule du type: 
+Le présent contrat est un contrat de prestation de conseil ayant pour objet la mission définie au cahier des charges annexé au présent contrat et en faisant partie intégrante.* 
 
 ## Article 2: prix 
-Clause indispensable. 
-Deux possibilités sont offertes. Soit un prix forfaitaire, pour une tâche bien déterminée, dans un calendrier arrêté, prix éventuellement révisable selon un mécanisme d'indexation. Soit un prix "en régie" si la durée de réalisation de la mission ne peut être nettement prévue. Les deux cas pouvant être combinés. 
+*Clause indispensable.*
+*Deux possibilités sont offertes. Soit un prix forfaitaire, pour une tâche bien déterminée, dans un calendrier arrêté, prix éventuellement révisable selon un mécanisme d'indexation. Soit un prix "en régie" si la durée de réalisation de la mission ne peut être nettement prévue. Les deux cas pouvant être combinés. *
 
-1er exemple: En contrepartie de la réalisation des prestations définies à l'article 1 ci-dessus, le client versera au prestataire la somme forfaitaire de.......... €, ventilée de la manière suivante: 
+**1er exemple**: En contrepartie de la réalisation des prestations définies à l'article 1 ci-dessus, le client versera au prestataire la somme forfaitaire de.......... €, ventilée de la manière suivante: 
 ...................... € à la signature des présentes 
 ...................... € au (n) jour suivant la signature des présentes 
 ...................... €, constituant le solde, à la réception de la tâche. 
@@ -49,7 +49,7 @@ Po est le prix de base
 I est l'indice le plus récent 
 Io est l'indice connu à la date de prise d'effet du contrat. 
 
-2e exemple: Les prestations définies à l'article 1 ci-dessus seront facturées au client........... € par journée pour un maximum de............ journées. 
+**2e exemple**: Les prestations définies à l'article 1 ci-dessus seront facturées au client........... € par journée pour un maximum de............ journées. 
 Par ailleurs, comme vu également, un surplus raisonnable de rémunération peut être calculée en fonction d'un pourcentage assis sur des éléments quantifiables pour faire participer le prestataire au succès de l'opération. S'ils ne sont pas compris dans le prix ci-dessus, il conviendra en outre que soient prévus les frais de déplacement, séjour et autres du prestataire. 
 
 Les frais engagés par le prestataire: de déplacement, d'hébergement, de repas et frais annexes de dactylographie, reprographie etc., nécessaires à l'exécution de la prestation seront facturés en sus au client sur relevé de dépenses. 
@@ -57,20 +57,20 @@ Les modalités de paiement du prix pourront soit figurer dans la présente claus
 Les sommes prévues ci-dessus seront payées par chèque, dans les huit jours de la réception de la facture, droits et taxes en sus. 
 
 ## Article 3: durée 
-Clause indispensable. A relier à l'article 5. 
+*Clause indispensable. A relier à l'article 5*
 Dans le cas d'un prix forfaitaire, il sera souvent nécessaire de prévoir une durée, éventuellement en termes de calendrier. Dans le cas d'un prix en régie, il sera prudent, comme vu ci-dessus, de fixer une borne. La question de la durée en termes de délais sera retrouvée ci-après. 
 
 Obligations du prestataire 
 
 ## Article 4: exécution de la prestation 
-Clause indispensable. 
+*Clause indispensable.*
 Selon le domaine d'intervention du prestataire (études de marché, communication, logistique...), et selon le degré de précision de la clause d'objet éventuellement renvoyant à un cahier des chrages en annexe, il y a lieu de préciser ici le contenu éventuellement plus précis de la prestation et les modalités d'exécution de celle-ci. 
 Le prestataire s'engage à mener à bien la tâche précisée à l'article 1, conformément aux règles de l'art et de la meilleure manière. 
 A cet effet, il constituera l'équipe nécessaire à la réalisation de la mission et remettra, avant le rapport terminal, une pré-étude, au plus tard le... 
 Il peut être utile d'annexer au contrat la composition de l'équipe dont la modification éventuelle nécessiterait l'accord du client. Il devra solliciter du client tous les éléments nécessaires à la bonne menée de la tâche, éventuellement dans le cadre d'un comité de pilotage qui peut être constitué à cet effet. 
 
 ## Article 5: calendrier-délais 
-Clause indispensable. 
+*Clause indispensable.*
 Il est important de mettre en place un échéancier-calendrier de l'accomplissement des prestations. Les diverses étapes peuvent d'ailleurs être flottantes et dépendre, par exemple, de l'accomplissement à certains moments de certaines tâches par le client. 
 Le prestataire craindra parfois de s'engager sur des délais impératifs; le client, pour sa part, aura tout intérêt à les exiger sous diverses sanctions, en termes de pénalités ou de résiliation, qui seront retrouvées ci-après. 
 La phase 1 définie au cahier des charges annexé aux présentes devra étre achevée au plus tard le... 
@@ -78,21 +78,21 @@ La phase 2, assortie de la remise du pré-rapport devra étre achevée au plus t
 La phase 3 et le rapport terminal devront étre délivrés au plus tard le... 
 
 ## Article 6: nature des obligations 
-Clause facultative, mais la clause "Exécution de la prestation", article 4 ci-dessus est indispensable. 
+*Clause facultative, mais la clause "Exécution de la prestation", article 4 ci-dessus est indispensable.*
 Il faut préciser que la distinction bien connue, obligation de moyens et obligation de résultat, n'a d'intérêt que sur le terrain de la preuve. Si le prestataire s'est engagé sur des résultats (définis en termes de performances et d'actes positifs dans la clause d'objet), le non-accomplissement du résultat le constitue en faute, à charge pour lui de démontrer la cause étrangère, généralement la faute du partenaire, qui le déchargera de toute responsabilité. 
 Inversement, si son engagement n'est que de purs moyens comme, par exemple, la stipulation de délais purement indicatifs, le client mécontent de l'exécution de la prestation devra alors démontrer -charge plus lourde- que le prestataire n'a pas donné à la réalisation de sa tâche tous les soins requis. 
 Une fois encore, tout débat sur ce terrain devrait être évité par la précision suffisante de la clause d'objet, du cahier des charges, sachant néanmois que la pertinence finale des conseils prodigués ne peut ressortir que d'une obligation de moyens. En revanche, la remise des rapports, le fait de venir sur le site, lorsque cela est prévu, et le respect des délais impératifs doivent pouvoir être considérés comme des obligations de résultat. 
 Pour l'accomplissement des diligences et prestations prévues à l'article 1 ci-dessus, le prestataire s'engage à donner ses meilleurs soins, conformément aux règles de l'art. La présente obligation, n'est, de convention expresse, que pure obligation de moyens. 
 
 ## Article 7: obligation de confidentialité 
-Clause indispensable. 
+*Clause indispensable.* 
 Il est important que le prestataire soit tenu de ne pas divulguer les informations auxquelles il aura pu avoir accès, dans le cadre de l'exécution de sa mission. L'attention du prestataire peut être attirée par la confidentialité des documents en cause, lorsque, notamment, ces derniers sont revêtus de la mention "confidentiel". 
 Le prestataire considèrera comme strictement confidentiel, et s'interdit de divulguer, toute information, document, donnée ou concept, dont il pourra avoir connaissance à l'occasion du présent contrat. Pour l'application de la présente clause, le prestataire répond de ses salariés comme de lui-même. Le prestataire, toutefois, ne saurait être tenu pour responsable d'aucune divulgation si les éléments divulgués étaient dans le domaine public à la date de la divulgation, ou s'il en avait connaissance, ou les obtenait de tiers par des moyens légitimes. 
 
 Obligations du client 
 
 ## Article 8: obligation de libérer l'accès aux informations 
-Clause facultative. 
+*Clause facultative.* 
 Il peut être utile que le contrat prévoie que, pour mener à bien la mission prise en charge, le prestataire pourra avoir un accès libre à certaines catégories d'informations. Cette clause pourra d'ailleurs être recoupée par la clause suivante. 
 
 ## Article 9: obligation de collaboration 
