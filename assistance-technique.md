@@ -1,5 +1,5 @@
-Contrat d'A.T. un peu ancien mais tout à fait valable.
-source: http://lthoumyre.chez.com/pro/1/ctra19980702.htm#2a
+- Contrat d'A.T. un peu ancien mais tout à fait valable.
+- source: http://lthoumyre.chez.com/pro/1/ctra19980702.htm#2a
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 ### Prix
 
-        Le prix de l’assistance technique est défini selon un tarif journalier, précisé en annexe. Il s'entend en francs français et hors taxes, et sera par conséquent majoré des taxes en vigueur au jour de la facturation (voir un exemplaire d’une annexe).
+        Le prix de l’assistance technique est défini selon un tarif journalier, précisé en annexe. Il s'entend en euros et hors taxes, et sera par conséquent majoré des taxes en vigueur au jour de la facturation (voir un exemplaire d’une annexe).
 
         Si à la demande du CLIENT des membres de l’équipe du PRESTATAIRE sont amenés à se déplacer sur un site spécifique, leurs frais de déplacements et de séjour feront l’objet d’une facturation séparée , justificatifs à l’appui.
 
@@ -153,14 +153,18 @@ Date de début des prestations :
 
 Date de fin des prestations :
 
-INTERLOCUTEURS TECHNIQUES DES DEUX PARTIES
-
----
-
-Pour le PRESTATAIRE :
-
-Pour le CLIENT :
-
 CONDITIONS FINANCIERES 
 
 Tarif jour :.---€ HT ( EUROS )
+
+---
+
+
+    Fait le ______________________ à ______________________________ en 2 (deux) exemplaires.
+
+
+    Le PRESTATAIRE ___________________________
+
+
+    Le CLIENT      ___________________________
+
